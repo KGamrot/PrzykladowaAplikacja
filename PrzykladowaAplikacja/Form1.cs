@@ -12,7 +12,7 @@ namespace PrzykladowaAplikacja
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("To jest jakieœ info");
+            MessageBox.Show("To jest jakies info");
         }
 
         private void ImieTextBox_TextChanged(object sender, EventArgs e)
